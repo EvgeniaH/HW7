@@ -96,4 +96,5 @@ public class ClientHandler {
     public String getNickname() {
         return nickname;
     }
+
 }
